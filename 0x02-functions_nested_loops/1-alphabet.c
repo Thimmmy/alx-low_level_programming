@@ -1,3 +1,15 @@
+/*
+ * File: 1-alphabet.c
+ * Auth: Tobiloba
+ */
+
+#include "main.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 void print_alphabet(void)
 {
 	char letter;
