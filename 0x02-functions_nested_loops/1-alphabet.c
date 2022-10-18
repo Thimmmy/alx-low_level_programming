@@ -1,3 +1,4 @@
+#!/bin/bash
 /*
  * File: 1-alphabet.c
  * Auth: Brennan D Baraban
